@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.exe
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.deps.json
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.runtimeconfig.json
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.dll
+C:\Users\Admin\source\repos\Advanced Programming\bin\Debug\netcoreapp3.1\Advanced Programming.pdb
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.dll
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.pdb
+C:\Users\Admin\source\repos\Advanced Programming\obj\Debug\netcoreapp3.1\Advanced Programming.genruntimeconfig.cache
